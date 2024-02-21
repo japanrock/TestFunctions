@@ -89,8 +89,8 @@
         <bt:Image id="Icon.80x80" DefaultValue="https://japanrock.github.io/TestFunctions/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Functions.Script.Url" DefaultValue="https://japanrock.github.io/TestFunctions/src/functions/functions.js"/>
-        <bt:Url id="Functions.Metadata.Url" DefaultValue="https://japanrock.github.io/TestFunctions/src/functions/functions.json"/>
+        <bt:Url id="Functions.Script.Url" DefaultValue="https://japanrock.github.io/TestFunctions/src/taskpane/functions.js"/>
+        <bt:Url id="Functions.Metadata.Url" DefaultValue="https://japanrock.github.io/TestFunctions/src/taskpane/functions.json"/>
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812"/>
         <bt:Url id="Taskpane.Url" DefaultValue="https://japanrock.github.io/TestFunctions/src/taskpane/taskpane.html"/>
       </bt:Urls>
