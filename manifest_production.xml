@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:ov="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="TaskPaneApp">
   <Id>e770afec-f156-4d1b-9182-f52d624d0d13</Id>
-  <Version>1.0.0.2</Version>
+  <Version>1.0.0.3</Version>
   <ProviderName>LR</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="LR custom functions add-in"/>
@@ -95,7 +95,7 @@
         <bt:Url id="Taskpane.Url" DefaultValue="https://japanrock.github.io/TestFunctions/src/taskpane/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
-        <bt:String id="Functions.Namespace" DefaultValue="LRFUNCTIONS"/>
+        <bt:String id="Functions.Namespace" DefaultValue="LRCUSTOMFUNCTIONS"/>
         <bt:String id="GetStarted.Title" DefaultValue="Get started with your sample add-in!"/>
         <bt:String id="CommandsGroup.Label" DefaultValue="Commands Group"/>
         <bt:String id="TaskpaneButton.Label" DefaultValue="Show Taskpane"/>
