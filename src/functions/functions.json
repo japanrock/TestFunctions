@@ -1,0 +1,31 @@
+{
+    "functions": [
+        {
+            "description": "count",
+            "id": "GRAPHEMECLUSTERCOUNT",
+            "name": "GRAPHEMECLUSTERCOUNT",
+            "parameters": [
+                {
+                    "description": "The string to count.",
+                    "name": "str",
+                    "type": "string"
+                }
+            ],
+            "result": {
+                "type": "number"
+            }
+        },
+        {
+            "description": "Displays the current time once a second",
+            "id": "CLOCK",
+            "name": "CLOCK",
+            "options": {
+                "stream": true
+            },
+            "parameters": [],
+            "result": {
+                "type": "string"
+            }
+        }
+    ]
+}
